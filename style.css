@@ -1,0 +1,24 @@
+h1 {
+    color: #f60808;
+    text-align: center;
+}
+ol {
+    color: gold;
+    background-color: #020104;
+    text-align: left;
+    padding: 25px 15px;
+}
+ul {
+    color: gold;
+    background-color: #020104;
+    text-align: left;  
+    padding: 15px 25px;
+}
+body {
+    background-color: #9d9c9c;
+    color: rgb(23, 58, 33);
+}
+p {
+    width: 300px;
+    text-align: center;
+}
